@@ -1,5 +1,7 @@
 # 👕 Clothing Classification Using CNN (Fashion MNIST)
 
+[![Great Learning Certificate](https://img.shields.io/badge/Great%20Learning-Project%20Certified-blue?style=for-the-badge&logo=google-scholar)](https://www.mygreatlearning.com/project-certificate/PC-9FAF92F0B7D031A3)
+
 This project implements a Convolutional Neural Network (CNN) to classify clothing images using the Fashion MNIST dataset.
 
 ---
@@ -86,6 +88,8 @@ Loss: Sparse Categorical Crossentropy
 
 Educational use only.
 
+---
+
 ## 📜 Certificate
 
 This project is supported by a verified professional project certificate  
@@ -93,4 +97,5 @@ from **Great Learning**.
 
 👉 View certificate here:  
 [`certificates/Certificate.pdf`](./certificates/Certificate.pdf)
+
 
