@@ -85,3 +85,12 @@ Loss: Sparse Categorical Crossentropy
 ## 📜 License
 
 Educational use only.
+
+## 📜 Certificate
+
+This project is supported by a verified professional project certificate  
+from **Great Learning**.
+
+👉 View certificate here:  
+[`certificates/Certificate.pdf`](./certificates/Certificate.pdf)
+
